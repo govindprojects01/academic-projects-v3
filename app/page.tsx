@@ -1,0 +1,1 @@
+export default function Home(){return <main style={{padding:40,fontFamily:'Arial'}}><h1>ProjectsArea</h1><p>Academic Projects & Thesis Printing</p><p>Baba Thesis and Printing • Varanasi</p></main>}
